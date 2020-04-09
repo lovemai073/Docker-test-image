@@ -12,4 +12,3 @@ BASH_ENV=/container.env
 # This extra line makes it a valid cron" > scheduler.txt
 
 crontab scheduler.txt
-cron -f
