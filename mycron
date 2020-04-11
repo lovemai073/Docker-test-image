@@ -1,1 +1,1 @@
-* * * * * root sh /run.sh
+* * * * * sh /run.sh  >> /var/cron.log 2>&1
